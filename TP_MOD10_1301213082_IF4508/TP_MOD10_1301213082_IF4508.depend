@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1669563623 source:c:\users\ardian maulana\documents\kuliah\struktur data\tp_mod10_1301213082_if4508\tp_mod10_1301213082_if4508\main.cpp
+	<iostream>
+	"stack.h"
+
+1672553734 c:\users\ardian maulana\documents\kuliah\struktur data\tp_mod10_1301213082_if4508\tp_mod10_1301213082_if4508\stack.h
+	<iostream>
+
+1672553725 source:c:\users\ardian maulana\documents\kuliah\struktur data\tp_mod10_1301213082_if4508\tp_mod10_1301213082_if4508\stack.cpp
+	"stack.h"
+
